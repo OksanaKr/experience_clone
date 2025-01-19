@@ -1,2 +1,3 @@
 homework Oksana Kravets
 Added text for 2nd commit
+New changes for the second commit
